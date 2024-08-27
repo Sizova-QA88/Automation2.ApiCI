@@ -6,9 +6,9 @@ import org.junit.jupiter.api.Test;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.is;
 
-class MobileBankApiTestV5 {
+public class MobileBankApiTestV5 {
     @Test
-    void shouldReturnDemoAccounts() {
+    public void shouldReturnDemoAccounts() {
         // Given - When - Then
         // Предусловия
         given()
