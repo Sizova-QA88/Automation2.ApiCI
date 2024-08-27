@@ -1,5 +1,5 @@
 Thumbs.db*
-.DS_Store/
+.DS_Store
 HELP.md
 .gradle
 build/
@@ -11,7 +11,7 @@ build/
 .project
 .settings
 .springBeans
-.sts4-cache
+.sts4-cachegit rm --cached
 
 ### IntelliJ IDEA ###
 .idea/
